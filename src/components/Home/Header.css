@@ -1,0 +1,144 @@
+.Maindiv{
+overflow:hidden;
+width:1300px;
+margin:3px 20px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400&display=swap');
+ul{
+text-decoration: none;
+list-style: none;
+display:flex;
+flex-direction: row;
+position:relative;
+top:-34px;
+left:500px;
+}
+li{
+    font-family:"Open Sans",sans-serif;
+    font-size:24px;
+    gap:10px;
+    font-weight: 450;
+    margin:6px,164px,0px;
+    padding:8px 24px;
+    position:relative;
+}
+.btn{
+    float:right;
+    background: #7C269B;
+    color:white;
+    margin-top: -107px;
+    width:140px;
+    height:45px;
+    letter-spacing: 0.8px;
+    padding:10px;
+    font-weight:500;
+    border-radius: 0.1;
+    position:relative;
+    z-index:99;
+}
+.btn:hover{
+    background: #7C269B;
+    color:white;
+}
+#HomeTag1{
+    text-decoration: none;
+    color:black;
+    /* color:#7C269B;
+    background: radial-gradient(95% 85% at 50% 50%,#f6d6ff 0,rgba(246,220,255,0) 100%);
+    transition: all 1s ease; */
+}
+#HomeTag{
+    text-decoration: none;
+    color:black;
+}
+/* #HomeTag1::after{
+    content:'';
+    height:2px;
+    width:120px;
+    background-color:#7C269B;
+    position:absolute;
+    left:5px;
+    bottom:6px;
+} */
+#HomeTag::after{
+    content:'';
+    height:2px;
+    background-color:#7C269B;
+    position:absolute;
+    color:#7C269B;
+    left:15px;
+    bottom:6px;
+}
+#HomeTag:hover::after{
+   width:130px;
+   transition: 0.9s;
+
+}
+#HomeTag:hover{
+    background: radial-gradient(95% 85% at 50% 50%,#f6d6ff 0,rgba(246,220,255,0) 100%);
+    color:#7C269B;
+}
+.Icons{  
+     font-size:2rem;
+     cursor:pointer;
+     display:none;
+}
+
+ 
+
+ul li a.active{
+    text-decoration: none;
+    color:#7C269B;
+    background: radial-gradient(95% 85% at 50% 50%,#f6d6ff 0,rgba(246,220,255,0) 100%);
+    transition: all 1s ease;
+}
+
+ul li a.active::after{
+    content:'';
+    height:2px;
+    width:120px;
+    color:#7C269B;
+    background-color:#7C269B;
+    position:absolute;
+    left:5px;
+    bottom:6px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Media-Query */
+
+@media screen and (min-width:320px) and (max-width: 978px){
+ 
+
+    .Icons{  
+        font-size:30px;
+        display:flex;
+        margin-left:250px;
+        margin-top:-40px;
+   }
+    ul{
+        font-size:90px;
+        display: flex;
+        flex-direction:column;
+        margin-left: -450px;
+        position:absolute;
+        width:100%;
+        top:80px;
+    }
+    #LogoImg{
+        position:absolute;
+        left:-90px;
+    }
+
+}

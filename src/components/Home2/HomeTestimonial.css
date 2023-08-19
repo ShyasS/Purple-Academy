@@ -1,0 +1,39 @@
+.mySwiper{
+    height:640px;
+    width:90%;
+    margin-top:-100px;
+    background-size: cover;
+    background-position: center;
+}
+.SwiperSlider{
+    width:100%;
+}
+.swiper-nav-buttons{
+    margin-top:-60px;
+    height:40px;
+    width:60px;
+}
+.leftbutt{
+    position:absolute;
+    z-index: 1;
+    top:230px;
+    left:100px;
+    height:80px;
+    width:80px;
+    border:none;
+    border-radius:100%;
+    background-color: white;
+    cursor:pointer;
+}
+.RightButt{
+    position:absolute;
+    z-index: 1;
+    top:260px;
+    left:90%;
+    height:80px;
+    border:none;
+    width:80px;
+    border-radius:100%;
+    background-color: white;
+    cursor:pointer;
+}

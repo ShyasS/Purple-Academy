@@ -1,0 +1,117 @@
+#h3Whyus{
+    text-align: center;
+    font-size:55px;
+    font-weight:600;
+    color:#7C269B;
+}
+.ColorWhyUs{
+    height:50vh;
+    width:100%;
+    background-color:#7C269B;
+    margin-top:-250px;
+}
+.h2WhyUs{
+    color:white;
+    font-size:35px;
+    font-weight:600;
+    margin-top:-80px;
+    margin-left:180px;
+    background-color: #7C269B;
+}
+.PWhyUs{
+    font-family:sans-serif;
+    margin-top:80px;
+    font-size:20px;
+    text-align: center;
+    opacity:1;
+}
+.ImgPPSideImg{
+    height:130px;
+    width:130px;
+    position:absolute;
+    
+}
+.Para1WhyUs{
+    opacity:1;
+    font-size:20px;
+    font-family:sans-serif;
+    margin-top:30px;
+}
+.SpanWhyUs{
+    font-weight:600;
+}
+.MPara1WhyUs{
+    display:flex;
+    flex-direction: row;
+    gap:30px;
+    margin-top:40px;
+   margin-left:310px;
+}
+.LinkWhyUs{
+    font-weight:500;
+    color:#7C269B;
+}
+.h2PDDB{
+    font-weight:600;
+    text-align:center;
+    margin-top:50px;
+}
+.Spanh2pddb{
+    color:#7C269B;
+}
+.P1pddb{
+    font-size:20px;
+    opacity:1;
+    font-family:sans-serif;
+    margin-left:150px;
+    margin-top:30px;
+}
+.P2pddb{
+    font-size:20px;
+    opacity:1;
+    font-family:sans-serif;
+    margin-left:150px;
+    margin-top:30px;
+}
+.LSBrands{
+   margin-top:70px;
+}
+.h3LSBrands{
+    font-size:18px;
+    font-weight:600;
+    text-align:center;
+}
+.VectorImgPPSlide{
+    height:130px;
+    width:180px;
+    position:absolute;
+    left:88%;
+}
+.SwiperWhyUsMain{
+    height:500px;
+    width:500px;
+}
+#MySwiperWhyUs{
+    margin-top:40px;
+    margin-left:500px;
+}
+.Swiper-Nav-btn button{
+    border:none;
+    height:50px;
+    width:70px;
+    border-radius:60px;
+    background-color:white;
+    margin-top:50px;
+
+}   
+.leftSwiBtn{
+    border:none;
+    position:relative;
+    top:-50px;
+} 
+.RightSwiBtn{
+    border:none;
+    position:relative;
+    top:-150px;
+    left:50px;
+}

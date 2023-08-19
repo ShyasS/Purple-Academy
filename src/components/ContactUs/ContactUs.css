@@ -1,0 +1,96 @@
+body{
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.h1ContactPa{
+  color:#7c269b;
+  margin-left:620px;
+  font-weight:700;
+  font-size:55px;
+  margin-top:-30px;
+  letter-spacing: -0.3px;
+}
+.h5ContactPa{
+  text-align:center;
+  font-weight:500;
+  font-size:22px;
+  margin-top:-130px;
+}
+.ContactCardMain{
+ display:flex;
+ flex-direction: row;
+ gap:40px;
+ margin-left:230px;
+ margin-top:70px;
+ 
+
+}
+.ContactPaper{
+  width:340px;
+  height:200px;
+  display: grid;
+  border-radius:100px;
+
+}
+.ContactCard1{
+  border-radius:100px;
+  width:340px;
+  color:#7c269b;
+}
+.ContactCard2{
+  border-radius:100px;
+  width:340px;
+  color:#7c269b;
+}
+.ContactCard3{
+  border-radius:100px;
+  width:340px;
+  color:#7c269b;
+}
+.HomeIcon{
+  color:#7c269b;
+  margin-left:150px;
+  margin-top:30px;
+}
+.MailIcon{
+  color:#7c269b;
+  margin-left:150px;
+  margin-top:30px;
+}
+.AddressIcon{
+color:#7c269b;
+margin-left:150px;
+  margin-top:30px;
+}
+.h2CArdContact{
+  color:#7c269b;  
+  font-size:28px;
+  font-weight:600;
+  margin-left:130px;
+}
+.h2CArdContMess{
+  color:#7c269b;  
+  font-size:28px;
+  font-weight:600;
+  margin-left:100px
+}
+.h3Para{
+  font-size:15px;
+  opacity:1;
+  margin-left:90px;
+}
+.h3Para1{
+  font-size:15px;
+  opacity:1;
+  margin-left:40px;
+}
+.h3Para0{
+  font-size:15px;
+  opacity:1;
+  margin-left:110px;
+}
+.ContactForm{
+  margin-top:80px;
+  margin-left:560px;
+}

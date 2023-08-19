@@ -1,0 +1,49 @@
+body{
+    overflow-x:hidden;
+}
+.MainPara{
+   /* position: relative;
+   top:-200px; */
+   margin-top:-640px;
+   margin-left:100px;
+}
+h1{
+    font-size:55px;
+    font-weight:700;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    height:198px;
+    width:678.51px;
+    letter-spacing: 1.5px;
+    line-height:4.1rem;
+}
+p{
+    font-size:17px;
+}
+.button1{
+    height:50px;
+    width:180px;
+    background-color:#7C269B;
+    color:white;
+    border:#7C269B;
+    border-radius:5px;
+    font-weight:500;
+    margin-top:30px;
+}
+.button2{
+    height:50px;
+    width:180px;
+    font-weight:500;
+    color:#7C269B;
+    border: 1px solid #7C269B;
+    border-radius:5px;
+    margin-left:30px;
+    margin-top:30px;
+}
+.HomeFormComp{
+    position:relative;
+    top:-430px;
+    left:61%;
+
+}

@@ -1,0 +1,28 @@
+.p1{
+    position:absolute;
+    top:18px;
+    left:160px;
+    width:122px;
+    letter-spacing: 1px;
+    line-height:14px;
+    z-index:99;
+}
+.Span1{
+    font-family: 'Kanit', sans-serif;
+    font-weight:bolder;
+    color:black;
+    font-size:14px;
+    line-height:18px;
+    position:absolute;
+    z-index:99;
+    
+}
+.Span2{
+    font-family: 'Kanit', sans-serif;
+    font-weight:760;
+    color:black;
+    font-size:23px;
+    line-height:23.19px;
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400&display=swap');

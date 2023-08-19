@@ -1,0 +1,14 @@
+.MainHomeformComp{
+    display:flex;
+    flex-direction: row;
+    margin-left:30px;
+}
+.textPara{
+    margin-left:60px;
+}
+.secondFourthComp{
+  margin-top:20px;
+}
+p{
+  opacity:0.7;
+}

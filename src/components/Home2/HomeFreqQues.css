@@ -1,0 +1,27 @@
+.MainAccordion{
+    width:50%;
+    margin-left:80px;
+    margin-top:30px;
+}
+.Span10{
+    font-size:21px;
+    font-weight:600;
+
+}
+.Span11{
+    color:#7C269B;
+    font-size:18px;
+    font-weight:600;
+}
+.Span13{
+    font-size:17px;
+    opacity: 0.8;
+}
+.Gif{
+position:absolute;
+top:385%;
+left:64%;
+height:400px;
+width:400px;
+
+}

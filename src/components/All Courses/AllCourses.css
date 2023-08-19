@@ -1,0 +1,63 @@
+body{
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.h234{
+    font-size:55px;
+    color:#7C269B;
+    text-align:center;
+    font-weight:700;
+}
+.btnAllC{
+    height:50px;
+    width:120px;
+    border:none;
+    border-radius:30px;
+    background-color:#7C269B;
+    color:white;
+    margin-left:-120px;
+    outline:none;
+    font-size:20px;
+}
+.MainInput{
+    margin-top:60px;
+    border:20px solid #f2e9f5;
+    border-radius:50px;
+    width:400px;
+    height:90px;
+   position:absolute;
+   left:570px;
+   top:200px; 
+}
+
+.butonAllCOu{
+   height:7vh;
+   width:100%;
+   background-color:#7C269B;
+   color:white;
+   border-radius: 70px;
+   outline:none;
+   border:none;
+   font-size:18px;
+} 
+.MainALLCOdiv{
+    display:grid;
+    grid-template-columns: auto auto auto;
+}
+#MaterialCard{
+   border-radius:30px;
+}
+.MainMaterialCard{
+    margin-top:300px;
+}
+#butCarPos{
+    position:absolute;
+    width:380px;
+}
+#h3AllCour{
+    text-align:center;
+     margin:20px;
+     position:absolute;
+}
